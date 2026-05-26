@@ -93,13 +93,6 @@ Click **"Settings"** to adjust:
 ### Legend:
 Shows the count of genes in each category
 
-## 📊 Example Data
-
-Sample CSV files are included in the `/examples` folder:
-- `sample_data_small.csv` - 50 genes
-- `sample_data_medium.csv` - 500 genes
-- `sample_data_large.csv` - 5000 genes
-
 ## 🛠️ Technical Details
 
 - **Technology**: Pure HTML + JavaScript + React
