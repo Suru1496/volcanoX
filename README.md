@@ -1,10 +1,8 @@
-# 🌋 Volcano Plot Generator
+# Volcano Plot Generator
 
 **A simple, browser-based tool for biologists to create publication-ready volcano plots from CSV data.**
 
 No installation required. No coding needed. Just open and use!
-
-![Volcano Plot Generator](screenshot.png)
 
 ## ✨ Features
 
@@ -136,13 +134,6 @@ Perfect for:
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
-### To Contribute:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -155,7 +146,7 @@ Built with ❤️ for the research community to make data visualization accessib
 
 For questions, suggestions, or issues:
 - Open an issue on GitHub
-- Email: your.email@example.com (optional)
+- Email: spp140202@gmail.com
 
 ## ⭐ Star This Project!
 
